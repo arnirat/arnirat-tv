@@ -15,6 +15,7 @@ Most chat commands have a 15-second individual cooldown, and can be prefixed wit
 `gorp`  
 `hehehe`  
 `hello` / `hi`  
+`honk`  
 `living room` / `this is the living room`  
 `nice`  
 `nope`  
