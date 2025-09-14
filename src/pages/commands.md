@@ -26,11 +26,11 @@ Most chat commands have a 15-second individual cooldown, and can be prefixed wit
 `!stopit`  
 `what`  
 `whoa` / `woah`  
-`wilhelm`
+`wilhelm`  
 
 ## Avatar triggers
 
 Only available in scenes where I'm on the screen.
 
-`nut`
-`lizard`
+`nut`  
+`lizard`  
