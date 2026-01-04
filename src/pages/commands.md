@@ -17,8 +17,10 @@ Most chat commands have a 15-second individual cooldown, and can be prefixed wit
 `hello` / `hi`  
 `honk`  
 `living room` / `this is the living room`  
+`lizard`  
 `nice`  
 `nope`  
+`nut`
 `oh no`  
 `okay`  
 `oof`  
@@ -27,10 +29,4 @@ Most chat commands have a 15-second individual cooldown, and can be prefixed wit
 `what`  
 `whoa` / `woah`  
 `wilhelm`  
-
-## Avatar triggers
-
-Only available in scenes where I'm on the screen.
-
-`nut`  
-`lizard`  
+`wrong`  
