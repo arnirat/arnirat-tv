@@ -20,7 +20,7 @@ Most chat commands have a 15-second individual cooldown, and can be prefixed wit
 `lizard`  
 `nice`  
 `nope`  
-`nut`
+`nut`  
 `oh no`  
 `okay`  
 `oof`  
